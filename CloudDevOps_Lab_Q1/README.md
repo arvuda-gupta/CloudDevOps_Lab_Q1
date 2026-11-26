@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A basic Python calculator project.
+A basic Python calculator supporting mathematical operations.
 
 ## Features
 - Addition
