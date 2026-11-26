@@ -1,6 +1,7 @@
 # Simple Calculator
 
-A basic Python calculator supporting advanced addition.
+A basic Python calculator supporting mathematical operations including addition, subtraction, multiplication, and division.
+
 ## Features
 - Addition
 - Subtraction
